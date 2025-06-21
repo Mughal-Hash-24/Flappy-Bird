@@ -83,4 +83,3 @@ Still, this version was mine — raw, clean, and flapping for dear life.
 **Created By:** Ibtasaam Amjad  
 **Language:** Python | Pygame  
 **Created:** August–September 2023
-```
